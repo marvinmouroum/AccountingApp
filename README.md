@@ -19,6 +19,8 @@ Study for the exam using the build in Flash Card function.
 ## Check out the video
 In the folder Video you can download a video displaying the app in live
 
+<a href="Video/TU_APP_VIDEO.mp4"> Link to Video </a>
+
 ## Sneak some code
 You can sneak the swift code for some view classes.
 
