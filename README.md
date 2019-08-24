@@ -14,6 +14,8 @@ Challenge your class mates to find out who knows the most
 ## Study with Flash Cards
 Study for the exam using the build in Flash Card function.
 
+<img src="Images/flash.gif" width=200>
+
 ## Check out the video
 In the folder Video you can download a video displaying the app in live
 
