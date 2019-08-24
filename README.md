@@ -4,8 +4,12 @@ I designed and coded this app for the accounting department at TU Berlin.
 ## Play Quizes
 Test your knowledge on accounting playing the course content as a quiz.
 
+<img src="Images/quiz.gif" width=200>
+
 ## Duel Class mates
 Challenge your class mates to find out who knows the most
+
+<img src="Images/Friends.png" width=200>
 
 ## Study with Flash Cards
 Study for the exam using the build in Flash Card function.
